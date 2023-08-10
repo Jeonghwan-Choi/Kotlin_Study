@@ -1,3 +1,5 @@
+package test.kotlin
+
 var x = 5
 
 fun main() {
